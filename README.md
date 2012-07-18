@@ -1,0 +1,4 @@
+jquery.xparallax
+================
+
+jquery.xparallax
